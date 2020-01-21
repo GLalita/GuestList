@@ -3,7 +3,10 @@ From a JSON formated file listing customer data, including names, user IDs, and 
 
 ## Run
 
-Download repository as a zip file. Save to computer in the desired directory. Open terminal and change to the appropriate directory. Run the script by entering 'python3 CustomerParse.py' (if Python version 3.0 or later)
+Download repository as a zip file. Save to computer in the desired directory. Open terminal and change to the appropriate directory. Run the script by entering 
+'''python
+python3 CustomerParse.py' (if Python version 3.0 or later)
+'''
 
 ## Overview
 
