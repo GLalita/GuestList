@@ -5,8 +5,9 @@ From a JSON formated file listing customer data, including names, user IDs, and 
 
 Download repository as a zip file. Save to computer in the desired directory. Open terminal and change to the appropriate directory. Run the script by entering 
 ```
-python3 CustomerParse.py' (if Python version 3.0 or later)
+python3 CustomerParse.py
 ```
+(if Python version 3.0 or later)
 
 ## Overview
 
@@ -15,5 +16,7 @@ The program target coordiantes are set to be `(37.788802,-122.4025067)`, the GPS
 ## Testing
 
 Unit testing run with 
-```python3 testInvites.py```
+```
+python3 testInvites.py
+```
 
